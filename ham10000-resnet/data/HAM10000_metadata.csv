@@ -1,0 +1,3 @@
+image_id,label,dx,dx_type,age,sex,localization
+sample_001,0,melanoma,confocal,55,female,abdomen
+sample_002,1,benign_keratosis,confocal,42,male,back

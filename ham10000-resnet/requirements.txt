@@ -1,0 +1,9 @@
+# Dependency placeholders for HAM10000 ResNet project
+# Add the required libraries here when setting up the real environment.
+
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
